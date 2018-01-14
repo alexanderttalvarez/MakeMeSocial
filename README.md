@@ -5,7 +5,7 @@ MakeMeSocial is a small Wordpress plugin I made to be able to add your favourite
 It's prepared as a widget, so it's quite easy to use. From the "Widgets" panel you can choose among different options.
 
 ## Don't forget
-That's not what you were looking for? I'm sorry, it's the first version, and it's more an excuse to try some stuff in Wodpress than a plugin you should be using.
+That's not what you were looking for? I'm sorry, it's the first version, and it's more an excuse to try some stuff in Wordpress than a plugin you should be using.
 
 Feel free to use it wherever you want.
 
