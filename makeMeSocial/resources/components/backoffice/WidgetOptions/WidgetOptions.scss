@@ -1,0 +1,48 @@
+.mms {
+
+    &-SocialNetworksTable {
+
+        margin-top: 15px;
+        
+        table {
+            width: 100%;
+
+            tr {
+                th,
+                td {
+                    text-align: left;
+                }
+            }
+        }
+
+        .buttonSocialNetwork {
+            color: white;
+            width: $button-size;
+            height: $button-size;
+            border-radius: 50%;
+            font-weight: bold;
+            border: 0px;
+            cursor: pointer;
+            font-size: 16px;
+
+            &.add {
+                background: $green-color;
+                margin-bottom: 10px;
+
+                &:hover {
+                    background: $dark-green-color;
+                }
+            }
+
+            &.delete {
+                background: $red-color;
+
+                &:hover {
+                    background: $dark-red-color;
+                }
+            }
+        }
+
+    }
+
+}

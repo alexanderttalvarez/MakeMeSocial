@@ -1,0 +1,15 @@
+.mms {
+    &-SocialNetworks {
+        padding: 0;
+
+        & > li {
+            display: inline-block;
+            width: 48px;
+            margin-right: 10px;
+
+            img {
+                max-width: 100%;
+            }
+        }
+    }
+}
