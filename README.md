@@ -12,3 +12,6 @@ Feel free to use it wherever you want.
 ## Docker-compose file
 Together with the plugin, there's a file called docker-compose.yml
 It allows you to use docker right away with a Wordpress installation just in case you want to test it without install Wordpress
+
+## Known bugs
+There's a small bug when editing the social networks at the administration. When deleting a social network, the "Save" button won't be available unless any input is changed. I'm working on that. The workaround is deleting a letter in the title and writing it again.
